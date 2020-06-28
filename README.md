@@ -22,16 +22,16 @@ In general the installation of parts into the tower and setup of the OS in the b
 
 <ins>Cost</ins>
 
-| Part        | Cost   | Discount    | Currency 
-| CPU         | 297.48 | 0.00        | USD
-| GPU         | 276.35 | 10.00       | USD
-| Boot Drive  | 205.91 | 0.00        | USD
-| Tower Case  | 16.33  | 100.00      | USD
-| Motherboard | 199.45 | 33.55       | USD
-| RAM         | 89.94  | 0.00        | USD
-| PSU         | 136.54 | 0.00        | USD
+| Part        | Cost   | Discount    | Currency |
+| ----------- | ------ | ----------- | -------- |
+| CPU         | 297.48 | 0.00        | USD      | 
+| GPU         | 276.35 | 10.00       | USD      |
+| Boot Drive  | 205.91 | 0.00        | USD      |
+| Tower Case  | 16.33  | 100.00      | USD      |
+| Motherboard | 199.45 | 33.55       | USD      |
+| RAM         | 89.94  | 0.00        | USD      |
+| PSU         | 136.54 | 0.00        | USD      |
 
 <ins>Final Cost</ins>
 
 $ 1,222.00 USD
-
