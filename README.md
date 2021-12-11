@@ -16,8 +16,6 @@ In general the installation of parts into the tower and setup of the OS in the b
 - Motherboard: Asus ROG Crosshair VII Hero X470
 - Extra Drive: Teamgroup T-force 500GB SATA III Solid State
 
-- OS: Ubuntu 20.04 LTS
-
 <ins>Wish List Parts</ins>
 
 - HDD IDE/IE to SATA Adapter (old 7200 rpm HDD)
