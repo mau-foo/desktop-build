@@ -13,12 +13,18 @@ In general the installation of parts into the tower and setup of the OS in the b
 - Tower Case: Cooler Master H500 ARGB
 - CPU Cooler: AMD Wraith Prism
 - PSU: Super Flower Leadex III Gold 650W
+- Motherboard: Asus ROG Crosshair VII Hero X470
+- Extra Drive: Teamgroup T-force 500GB SATA III Solid State
+
+- OS: Ubuntu 20.04 LTS
 
 <ins>Wish List Parts</ins>
 
-- Solid State Drive
 - HDD IDE/IE to SATA Adapter (old 7200 rpm HDD)
-- PCIe Wifi Adapter
+
+<ins>Installed</ins>
+
+- OS: Ubuntu 20.04 LTS
 
 <ins>Cost</ins>
 
